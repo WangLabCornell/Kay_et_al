@@ -5,8 +5,11 @@ This document outlines all scripts used to process data for RNA Polymerase II is
 ## MATLAB Version ##
 
 This code was developed using MATLAB.
+
 MATLAB Version: 24.2.0.2863752 (R2024b) Update 5
+
 Operating System: Microsoft Windows 11
+
 MATLAB R2024b can be downloaded from MathWorks (https://www.mathworks.com/products/matlab.html) and installed with license. MATLAB can be installed within 30 min.
 
 ## Examples ## 
