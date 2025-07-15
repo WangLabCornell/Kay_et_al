@@ -43,9 +43,9 @@ During execution, a message box will prompt you to zoom into a region of interes
 ROI: The last region of populated data points prior to the return to the DNA unzipping baseline. 
 
 Output Metrics: Displayed in the respective figure windows
-• Transcribed distance – Figure 1 
-• Displacement force – Figure 1 
-• Sliding distance – Figure 5 
+- Transcribed distance – Figure 1 
+- Displacement force – Figure 1 
+- Sliding distance – Figure 5 
 
 ### Figure3and4_AnalysisPlotting.m ###
 
