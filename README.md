@@ -26,7 +26,7 @@ Each script comes with its own respective demo dataset file. The script and its 
 4. Run the script and follow prompts
 
 ## Scripts ## 
-### Figure1and2_AnalysisPlotting.m ###
+### Figure1and2_Analysis.m ###
 
 This MATLAB script plots and analyzes experimental single-molecule data containing DNA stretching and unzipping. This script allows users to measure the transcribed distance, the disruption force, the sliding distance, and plot the extension shift due to RNA-DNA hybridization for visualization.  
 
@@ -47,7 +47,7 @@ Output Metrics: Displayed in the respective figure windows
 - Displacement force – Figure 1 
 - Sliding distance – Figure 5 
 
-### Figure3and4_AnalysisPlotting.m ###
+### Figure3and4_Analysis.m ###
 
 This MATLAB script plots and analyzes experimental single-molecule data containing DNA stretching, DNA unzipping, RNA Pol II backtracking, and DNA reannealing. This script allows users to measure the backtrack distance, and the ability/inability for DNA to reanneal.
 
@@ -68,7 +68,7 @@ Output Metrics: Displayed in the respective figure windows
 - Force Dip during Rezipping - Figure 4 
 - Force at Ext = 2750nm during 2nd Unzip - Figure 2 
 
-### Figure5_AnalysisPlotting.m ###  
+### Figure5_Analysis.m ###  
 
 This MATLAB script plots and analyzes experimental single-molecule data containing DNA stretching, DNA unzipping, RNA Pol II backtracking, and DNAP replication. This script allows users to measure the backtrack distance, the ability/inability for DNA to reanneal, and DNAP activity.
 
@@ -88,4 +88,5 @@ Output:
 
 
 ### calculate_velocity_position.m ###
-Function that is used to calculate the velocity and smoothed position from the position vs time data. Used in (`Figure1and2_AnalysisPlotting.m`)
+Function that is used to calculate the velocity and smoothed position from the position vs time data. Used in (`Figure1and2_Analysis.m`)
+
